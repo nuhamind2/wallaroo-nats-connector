@@ -7,7 +7,7 @@ Konektor wallaroo source dan sink untuk nats server
 
 Langkah-langkah
 
-1. Install dan jalankan nats server, contoh ini menggunakan flag trace and debug
+1.Install dan jalankan nats server, contoh ini menggunakan flag trace and debug
 ` ./gnatsd -DV`
 
 2.Install wallaroo dengan petunjuk di [sini](https://docs.wallaroolabs.com/python-installation/python-wallaroo-up-installation-guide/)
