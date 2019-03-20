@@ -3,7 +3,10 @@ Konektor wallaroo source dan sink untuk nats server
 
 [Wallaroo](https://github.com/wallaroolabs/wallaroo)
 
+Wallaroo adalah suatu framework Stream processing seperti Apache Flink, bedanya Wallaroo menggunakan python untuk menulis logic streamingnya. Engine Wallaroo ditulis dalam pony dan sama sekali tidak bergantung dengan JVM seperti kebanyakan framework stream processing.
+
 [NATS](https://github.com/nats-io/gnatsd)
+NATS server adalah PUB-SUB server yang ringan dan berperforma tinggi. NATS memiliki karakteristik fire and forget
 
 Langkah-langkah
 
